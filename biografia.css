@@ -1,0 +1,74 @@
+
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	font-family: "comic sans";
+}
+.menu{
+	list-style: none;
+	padding: 0;
+	background-image: url(https://addons-media.operacdn.com/media/CACHE/images/themes/95/72895/1.0-rev1/images/93ccab91-6074-4c33-8e46-e595084a0d4e/9a4f464c41153f539e8f7617907c4063.jpg);
+	width: 90%;
+	max-width: 1000%;
+	margin: 20px auto;
+}
+
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+
+.menu li a{
+	color: #000104 ;
+	font-size: 20px;
+	text-decoration: none ;
+	display: block;
+	padding: 20px;
+}
+
+.menu li a:hover{
+	background: #ef8354;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.contenedor{
+	background: #85C1E9;
+	width: 80%;
+	margin: auto;
+}
+.capa{
+	height: 400px;
+	background-image: url("https://images.steamusercontent.com/ugc/2310974141604980016/B4EF3A7A2D1772DE26B1A6F51CE33A04FD8BB917/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false");
+	background-position: center;
+	background-size: cover;
+}
+main{
+	background: #FFFFFF;
+	padding: 20px 30px;
+	border: 2px solid #88E38D;
+}
+main .foto{
+	width: 150px;
+	height: 160px;
+	background-color: #88E38D;
+	border-radius: 60%;
+	margin: -90px 0 30px 0;
+	border: 6ox solid #FFFFFF;
+}
+main .foto img{
+	width: 100%;
+	border-radius: 50%;
+}
+footer{
+	background: #3DAF2F;
+	color: #000000;
+	font-size: 20px;
+	height: 140px;
+}

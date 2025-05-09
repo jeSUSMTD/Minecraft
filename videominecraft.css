@@ -1,0 +1,63 @@
+*{
+	margin:0;
+	padding:0;
+	font-family:system-ui, -apple-system, BlinkMacSystemFont, 
+	'segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans',
+	 'Helvetica Neue', sans-seerif;
+}
+
+body{
+	heigth: 100vh;
+	width: 100%;
+	position:relative;
+	overflow:hidden;
+	background: #000000;
+}
+.menu{
+	list-style: none;
+	padding: 0;
+	background-image: url(https://addons-media.operacdn.com/media/CACHE/images/themes/95/72895/1.0-rev1/images/93ccab91-6074-4c33-8e46-e595084a0d4e/9a4f464c41153f539e8f7617907c4063.jpg);
+	width: 90%;
+	max-width: 1000%;
+	margin: 20px auto;
+}
+
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+
+.menu li a{
+	color: #000104 ;
+	font-size: 20px;
+	text-decoration: none ;
+	display: block;
+	padding: 20px;
+}
+
+.menu li a:hover{
+	background: #ef8354;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+video{
+	width: 100%;
+}
+
+.content{
+	position:absolute;
+	top:0;
+	left:0;
+	heigth: 300px;
+	width: 300px;
+	background-color: rgba(0,0,0,0.3);
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+

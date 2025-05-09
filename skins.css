@@ -1,0 +1,68 @@
+
+*{
+	padding: 0;
+	margin: 0;
+}
+
+body{
+	font-family: "calibri light";
+	background: #bd946b;
+}
+.menu{
+	list-style: none;
+	padding: 0;
+	background-image: url(https://addons-media.operacdn.com/media/CACHE/images/themes/95/72895/1.0-rev1/images/93ccab91-6074-4c33-8e46-e595084a0d4e/9a4f464c41153f539e8f7617907c4063.jpg);
+	width: 90%;
+	max-width: 1000%;
+	margin: 20px auto;
+}
+
+.menu li{
+	display: inline-block;
+	text-align: center;
+}
+
+.menu li a{
+	color: #000104 ;
+	font-size: 20px;
+	text-decoration: none ;
+	display: block;
+	padding: 20px;
+}
+
+.menu li a:hover{
+	background: #ef8354;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+}
+.contenedor{
+	background: #3DAF2F;
+	width: 80%;
+	margin: auto;
+}
+header{
+	height: 200px;
+	background-image: url("https://wallpapers.com/images/featured/1280x720-minecraft-an8pm9v8gg194ngb.jpg");
+	background-position: center;
+	background-size: cover;
+}
+main{
+	background: #9be797  ;
+	padding: 40px 50px;
+	border: 5px solid #78de78   ;
+
+.imagen{
+	background: #e5e5e5;
+	opacity: 1;
+	border: 1px solid #fff;
+}
+
+footer{
+	background: #3DAF2F;
+	color: #000000;
+	font-size: 20px;
+	height: 140px;
+}
